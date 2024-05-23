@@ -6,7 +6,7 @@ Also now you can run fixer.bat(one time) if other 3 bat files give you error.
 Note 
 - Always keep fixer.bat,adb.exe and AdbWinApi.dll in same folder.
 - Other 3 bat files can run from any location.
-    
+    Hi
 
 #Updated files
 **Now you dont need to donwload platform-tools**
